@@ -1,35 +1,78 @@
-<img width="1672" height="941" alt="ChatGPT Image 11 de mai  de 2026, 00_50_11" src="https://github.com/user-attachments/assets/929ecdf2-5950-4dcf-8f23-110f2fb83014" />
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D96A1D&height=140&section=header"/>
 
 <div align="center">
-  <a href="https://www.instagram.com/samuel_bortoleto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <a href="https://discord.com/channels/@samuel.bortoleto.souza" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=D96A1D&center=true&vCenter=true&width=900&lines=ARQUITETURA+WEB;DESENVOLVIMENTO+SaaS+;EXPERIÊNCIAS+DIGITAIS;SOLUÇÕES+COM+INTELIGÊNCIA+ARTIFICIAL" />
+
 </div>
 
-###
+---
 
-<h1 align="center">Arquiteto WEB • Desenvolvedor SaaS • Soluções com Inteligência Artificial</h1>
+<div align="center">
 
-###
+<img width="1672" height="941" alt="ChatGPT Image 11 de mai  de 2026, 01_27_27" src="https://github.com/user-attachments/assets/a23b768e-d5ef-452f-9cf3-45818f16aca1" />
 
-<h3 align="left">🧠 Sobre Mim<br><br>Sou especialista em criar soluções digitais premium impulsionadas por Inteligência Artificial.<br><br>Meu foco não é apenas desenvolvimento. Eu estruturo sistemas inteligentes pensados para resolver problemas reais de empresas.<br><br>Trabalho criando:<br><br>Sites premium para empresas<br>Landing pages de alta conversão<br>Plataformas SaaS inteligentes<br>Dashboards de gestão<br>Sistemas com IA<br>Automações empresariais<br>Arquiteturas web escaláveis<br><br>Cada projeto é desenvolvido com:<br><br>✔ Performance ✔ Escalabilidade ✔ Arquitetura inteligente ✔ UI/UX moderna ✔ Organização de dados ✔ Automação ✔ Estratégia focada no negócio</h3>
+</div>
 
-###
+---
 
-<p align="left">🛠 Stack Tecnológica<br>🤖 Fluxo de Trabalho com Inteligência Artificial<br><br>Utilizo Inteligência Artificial como uma camada estratégica de aceleração para:<br><br>Arquitetura inteligente de software<br>Extração e processamento de dados<br>Prototipagem rápida de interfaces<br>Automações avançadas<br>Criação de lógica empresarial inteligente<br>Otimização de estruturas SaaS<br>Desenvolvimento ágil de produtos<br>Experiências digitais escaláveis<br><br>Meu processo combina:<br><br>🧠 Estratégia humana + ⚡ Aceleração com IA + 🏗 Arquitetura profissional<br><br>💼 Principais Serviços<br>🌐 Desenvolvimento de Sites Premium<br><br>Sites institucionais de alto nível desenvolvidos para:<br><br>Transmitir autoridade<br>Gerar credibilidade<br>Aumentar conversões<br>Fortalecer presença digital<br>Elevar percepção de marca<br>📈 Landing Pages<br><br>Páginas focadas em conversão desenvolvidas para:<br><br>Captar leads<br>Vender produtos e serviços<br>Aumentar engajamento<br>Melhorar performance de marketing<br>🧩 Desenvolvimento SaaS<br><br>Sistemas personalizados desenvolvidos em torno da dor operacional do cliente.<br><br>Focados em:<br><br>Escalabilidade<br>Performance<br>Automação<br>Gestão de dados<br>Otimização de fluxo<br>Organização inteligente<br>📊 Dashboards & Sistemas de Gestão<br><br>Soluções criadas para:<br><br>Centralizar informações<br>Reduzir erros operacionais<br>Melhorar controle de recursos<br>Otimizar gestão interna<br>Eliminar desorganização de dados<br>Melhorar tomada de decisões<br>🔥 Especialidades<br><br>✔ Arquitetura WEB ✔ Sistemas SaaS ✔ Integração com IA ✔ Automação Empresarial ✔ Engenharia Frontend ✔ Estratégia UX/UI ✔ Desenvolvimento Responsivo ✔ Interfaces de Dashboard ✔ Sistemas de Organização de Dados ✔ Produtos Digitais Escaláveis</p>
+<div align="center">
 
-###
+<a href="https://www.instagram.com/samuel_bortoleto/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D96A1D"/>
+</a>
 
-<h3 align="left">📊 Estatísticas GitHub<br>⚙ Foco Atual</h3>
+<a href="https://wa.me/5544999999999" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=C85C14"/>
+</a>
 
-###
+<a href="https://discord.com/channels/@samuel.bortoleto.souza" target="_blank">
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=D96A1D"/>
+</a>
 
-<p align="left">🚀 Desenvolvimento SaaS com IA<br><br>🏗 Arquitetura WEB Inteligente<br><br>📊 Sistemas Empresariais<br><br>⚡ Experiências Premium<br><br>🤖 Automação com Inteligência Artificial<br><br>🌐 Websites de Alta Performance</p>
+</div>
 
-###
+---
+
+<h1 align="center"> Arquiteto WEB • Desenvolvedor SaaS • Soluções com Inteligência Artificial</h1>
+
+<p align="center">
+Criação de plataformas premium, sistemas inteligentes e experiências digitais escaláveis impulsionadas por Inteligência Artificial.
+</p>
+
+---
+
+![AI Banner](https://img.shields.io/badge/AI-Engineering-orange?style=for-the-badge&logo=brain&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)
+
+![Focus](https://img.shields.io/badge/Focus-SaaS%20%7C%20Web%20%7C%20AI-orange?style=for-the-badge)
+
+---
+
+## 🤖 IA como camada estratégica de engenharia e aceleração de produtos digitais
+
+Utilizo Inteligência Artificial como parte central do processo de **arquitetura e desenvolvimento de software**, elevando performance, eficiência e escalabilidade de sistemas modernos.
+
+---
+
+## ⚙️ Aplicações principais da IA
+
+- 🧠 Arquitetura inteligente de software  
+- 📊 Processamento e estruturação de dados  
+- ⚡ Prototipagem rápida de interfaces  
+- 🔁 Automação de processos complexos  
+- 🧩 Construção de lógica empresarial avançada  
+- 🚀 Otimização de sistemas SaaS  
+- 🏗️ Desenvolvimento acelerado de produtos digitais  
+- 🌐 Escalabilidade de experiências digitais  
+
+---
+
+## 🧠 Metodologia de Desenvolvimento
+
+```mermaid
+graph LR
+A[Estratégia Humana] --> B[IA Aplicada]
+B --> C[Engenharia de Software Avançada]
+C --> D[Produto Digital Escalável]
