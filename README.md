@@ -1,10 +1,8 @@
-<img width="1254" height="1254" alt="ChatGPT Image 11 de mai  de 2026, 00_48_51" src="https://github.com/user-attachments/assets/e9454d7d-200c-48c0-8716-4c2545848be5" />
+<img width="1672" height="941" alt="ChatGPT Image 11 de mai  de 2026, 00_50_11" src="https://github.com/user-attachments/assets/929ecdf2-5950-4dcf-8f23-110f2fb83014" />
 
 
-###
-<img width="1408" height="768" alt="Gemini_Generated_Image_mdqnhjmdqnhjmdqn" src="https://github.com/user-attachments/assets/0d0d3ead-8615-4833-9602-597081b7c08b" />
 
-###
+
 
 <div align="center">
   <a href="https://www.instagram.com/samuel_bortoleto/" target="_blank">
