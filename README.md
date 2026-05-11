@@ -22,11 +22,11 @@
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D96A1D"/>
 </a>
 
-<a href="https://wa.me/5544999999999" target="_blank">
+<a href="https://wa.me/5544997647379" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=C85C14"/>
 </a>
 
-<a href="https://discord.com/channels/@samuel.bortoleto.souza" target="_blank">
+<a href="https://discord.com/channels/@samuel.bortoleto.souza](https://discord.gg/4cWN9YxE)" target="_blank">
 <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=D96A1D"/>
 </a>
 
