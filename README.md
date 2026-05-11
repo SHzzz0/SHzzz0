@@ -2,11 +2,10 @@
   <img height="150" src="blob:https://gemini.google.com/1fdd48e4-b7bf-4d41-bd97-b96b5a48e3bd"  />
 </div>
 
-
-
-
 ###
 <img width="1408" height="768" alt="Gemini_Generated_Image_mdqnhjmdqnhjmdqn" src="https://github.com/user-attachments/assets/0d0d3ead-8615-4833-9602-597081b7c08b" />
+
+
 
 <div align="center">
   <a href="https://www.instagram.com/samuel_bortoleto/" target="_blank">
