@@ -5,7 +5,7 @@
 ###
 <img width="1408" height="768" alt="Gemini_Generated_Image_mdqnhjmdqnhjmdqn" src="https://github.com/user-attachments/assets/0d0d3ead-8615-4833-9602-597081b7c08b" />
 
-
+###
 
 <div align="center">
   <a href="https://www.instagram.com/samuel_bortoleto/" target="_blank">
@@ -34,14 +34,6 @@
 ###
 
 <p align="left">🛠 Stack Tecnológica<br>🤖 Fluxo de Trabalho com Inteligência Artificial<br><br>Utilizo Inteligência Artificial como uma camada estratégica de aceleração para:<br><br>Arquitetura inteligente de software<br>Extração e processamento de dados<br>Prototipagem rápida de interfaces<br>Automações avançadas<br>Criação de lógica empresarial inteligente<br>Otimização de estruturas SaaS<br>Desenvolvimento ágil de produtos<br>Experiências digitais escaláveis<br><br>Meu processo combina:<br><br>🧠 Estratégia humana + ⚡ Aceleração com IA + 🏗 Arquitetura profissional<br><br>💼 Principais Serviços<br>🌐 Desenvolvimento de Sites Premium<br><br>Sites institucionais de alto nível desenvolvidos para:<br><br>Transmitir autoridade<br>Gerar credibilidade<br>Aumentar conversões<br>Fortalecer presença digital<br>Elevar percepção de marca<br>📈 Landing Pages<br><br>Páginas focadas em conversão desenvolvidas para:<br><br>Captar leads<br>Vender produtos e serviços<br>Aumentar engajamento<br>Melhorar performance de marketing<br>🧩 Desenvolvimento SaaS<br><br>Sistemas personalizados desenvolvidos em torno da dor operacional do cliente.<br><br>Focados em:<br><br>Escalabilidade<br>Performance<br>Automação<br>Gestão de dados<br>Otimização de fluxo<br>Organização inteligente<br>📊 Dashboards & Sistemas de Gestão<br><br>Soluções criadas para:<br><br>Centralizar informações<br>Reduzir erros operacionais<br>Melhorar controle de recursos<br>Otimizar gestão interna<br>Eliminar desorganização de dados<br>Melhorar tomada de decisões<br>🔥 Especialidades<br><br>✔ Arquitetura WEB ✔ Sistemas SaaS ✔ Integração com IA ✔ Automação Empresarial ✔ Engenharia Frontend ✔ Estratégia UX/UI ✔ Desenvolvimento Responsivo ✔ Interfaces de Dashboard ✔ Sistemas de Organização de Dados ✔ Produtos Digitais Escaláveis</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
