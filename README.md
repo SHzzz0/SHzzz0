@@ -5,8 +5,6 @@
 ###
 <img width="1408" height="768" alt="Gemini_Generated_Image_mdqnhjmdqnhjmdqn" src="https://github.com/user-attachments/assets/0d0d3ead-8615-4833-9602-597081b7c08b" />
 
-
-
 <div align="center">
   <a href="https://www.instagram.com/samuel_bortoleto/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
