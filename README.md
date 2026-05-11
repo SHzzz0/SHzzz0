@@ -1,8 +1,6 @@
 <img width="1672" height="941" alt="ChatGPT Image 11 de mai  de 2026, 00_50_11" src="https://github.com/user-attachments/assets/929ecdf2-5950-4dcf-8f23-110f2fb83014" />
 
-
-
-
+###
 
 <div align="center">
   <a href="https://www.instagram.com/samuel_bortoleto/" target="_blank">
