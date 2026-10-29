@@ -67,10 +67,17 @@ D -->|abaixo da nota| C
 
 ---
 
-## 📅 Agora
+## 📈 Marcos recentes
 
-- 🚀 Primeira versão do KODA publicada (201 arquivos, +34 mil linhas) e persistência migrada para o Supabase
-- 🎨 Campanhas e peças de comunicação para a **THOR Componentes**
-- 🧭 Próximo passo: KODA em produção, atendendo novas marcas
+- **KODA 1.0 lançado:** arquitetura multiagente com 17 especialistas, mais de 34 mil linhas de código e infraestrutura em Supabase
+- **THOR Componentes:** comunicação institucional, endomarketing e campanhas de recrutamento
+- **Próxima etapa:** KODA em produção, atendendo novas marcas
+
+<div align="center">
+
+**Quer mais resultado com marketing, tráfego pago ou IA no seu negócio?**
+[Fale comigo no WhatsApp](https://wa.me/5544997647379)
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B8F028&height=100&section=footer"/>
