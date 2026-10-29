@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D96A1D&height=140&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B8F028&height=140&section=header"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=D96A1D&center=true&vCenter=true&width=900&lines=MARKETING+DIGITAL;TRÁFEGO+PAGO;KODA+·+CÉREBRO+DE+MARKETING+COM+IA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=B8F028&center=true&vCenter=true&width=900&lines=MARKETING+DIGITAL;TRÁFEGO+PAGO;KODA+·+CÉREBRO+DE+MARKETING+COM+IA" />
 
 <h3>Samuel Bortoleto · Marketing, Tráfego Pago e IA</h3>
 
 <p>Uno estratégia de marketing, mídia paga e engenharia de software para gerar resultado com IA.</p>
 
-<a href="https://www.instagram.com/samuel_bortoleto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D96A1D"/></a>
-<a href="https://wa.me/5544997647379" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=D96A1D"/></a>
-<a href="https://discord.gg/4cWN9YxE" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=D96A1D"/></a>
+<a href="https://www.instagram.com/samuel_bortoleto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=B8F028"/></a>
+<a href="https://wa.me/5544997647379" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=B8F028"/></a>
+<a href="https://discord.gg/4cWN9YxE" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=B8F028"/></a>
 
 </div>
 
@@ -34,7 +34,7 @@ Automação de marketing com IA, landing pages de alta conversão e plataformas 
 > Projeto autoral: criei, desenvolvi e mantenho o KODA do zero.
 
 <div align="center">
-<img width="100%" alt="KODA" src="https://github.com/user-attachments/assets/a23b768e-d5ef-452f-9cf3-45818f16aca1" />
+<img width="100%" alt="KODA: tela inicial com o cérebro de partículas" src="koda.webp" />
 </div>
 
 O **KODA** é um departamento de marketing feito de agentes de IA. Você conversa com **uma** inteligência, o Cérebro, e por trás dele **17 especialistas** planejam, escrevem, desenham, revisam e aprendem com o feedback. Um agente de **RH** percebe lacunas no time e contrata novos especialistas sozinho.
@@ -57,12 +57,12 @@ D -->|abaixo da nota| C
 - 🔒 Nada é publicado, enviado ou pago sem aprovação humana
 
 <p>
-<img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=D96A1D"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D96A1D"/>
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=D96A1D"/>
-<img src="https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=D96A1D"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=D96A1D"/>
-<img src="https://img.shields.io/badge/Tailwind_4-000000?style=for-the-badge&logo=tailwindcss&logoColor=D96A1D"/>
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=B8F028"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=B8F028"/>
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=B8F028"/>
+<img src="https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=B8F028"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=B8F028"/>
+<img src="https://img.shields.io/badge/Tailwind_4-000000?style=for-the-badge&logo=tailwindcss&logoColor=B8F028"/>
 </p>
 
 ---
@@ -73,4 +73,4 @@ D -->|abaixo da nota| C
 - 🎨 Campanhas e peças de comunicação para a **THOR Componentes**
 - 🧭 Próximo passo: KODA em produção, atendendo novas marcas
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D96A1D&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B8F028&height=100&section=footer"/>
