@@ -1,8 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B8F028&height=140&section=header"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:B8F028&height=140&section=header">
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:3F6212,100:84CC16&height=140&section=header">
+</picture>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=B8F028&center=true&vCenter=true&width=900&lines=MARKETING+DIGITAL;TRÁFEGO+PAGO;KODA+·+CÉREBRO+DE+MARKETING+COM+IA" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=B8F028&center=true&vCenter=true&width=900&lines=MARKETING+DIGITAL;TRÁFEGO+PAGO;KODA+·+CÉREBRO+DE+MARKETING+COM+IA">
+  <img alt="Marketing digital, tráfego pago e KODA" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=4D7C0F&center=true&vCenter=true&width=900&lines=MARKETING+DIGITAL;TRÁFEGO+PAGO;KODA+·+CÉREBRO+DE+MARKETING+COM+IA">
+</picture>
 
 <h3>Samuel Bortoleto · Marketing, Tráfego Pago e IA</h3>
 
@@ -39,11 +45,11 @@ Automação de marketing com IA, landing pages de alta conversão e plataformas 
 
 O **KODA** é um departamento de marketing feito de agentes de IA. Você conversa com **uma** inteligência, o Cérebro, e por trás dele **17 especialistas** planejam, escrevem, desenham, revisam e aprendem com o feedback. Um agente de **RH** percebe lacunas no time e contrata novos especialistas sozinho.
 
-```mermaid
-graph LR
-A[Pedido] --> B[Plano] --> C[Agentes em paralelo] --> D[Revisão de marca + QA] --> E[Entrega] --> F[Aprendizado]
-D -->|abaixo da nota| C
-```
+<img width="100%" alt="Mapa do time do KODA: o Cérebro no centro, ligado a 16 agentes em 7 departamentos" src="koda-constelacao.svg" />
+
+**Um pedido, do comando à aprovação**
+
+<img width="100%" alt="Terminal do KODA: um pedido de 3 anúncios passa pelos agentes até ficar pronto para aprovação" src="koda-terminal.svg" />
 
 **Principais recursos**
 
@@ -80,4 +86,7 @@ D -->|abaixo da nota| C
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B8F028&height=100&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B8F028,100:0D1117&height=100&section=footer">
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:84CC16,100:3F6212&height=100&section=footer">
+</picture>
