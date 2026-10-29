@@ -34,7 +34,7 @@ Automação de marketing com IA, landing pages de alta conversão e plataformas 
 > Projeto autoral: criei, desenvolvi e mantenho o KODA do zero.
 
 <div align="center">
-<img width="100%" alt="KODA: tela inicial com o cérebro de partículas" src="koda.webp" />
+<KODA em Verde Neon.png" />
 </div>
 
 O **KODA** é um departamento de marketing feito de agentes de IA. Você conversa com **uma** inteligência, o Cérebro, e por trás dele **17 especialistas** planejam, escrevem, desenham, revisam e aprendem com o feedback. Um agente de **RH** percebe lacunas no time e contrata novos especialistas sozinho.
