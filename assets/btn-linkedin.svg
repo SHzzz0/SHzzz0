@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129" height="40" viewBox="0 0 129 40" role="img" aria-label="LinkedIn">
+<title>LinkedIn</title>
+<style>text{font-family:Inter,"Segoe UI",system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif}</style>
+<defs>
+
+</defs>
+<rect x=".5" y=".5" width="128" height="39" rx="19.5" fill="#F2EEED" stroke="#D6D0CE"/>
+<circle cx="21" cy="20" r="13" fill="#0C1D3A"/>
+<g fill="#fff"><rect x="14.6" y="17.4" width="2.7" height="8.4" rx=".4"/><circle cx="15.95" cy="14.5" r="1.6"/><path d="M19.4 17.4h2.6v1.2c.55-.9 1.55-1.45 2.85-1.45 2.15 0 3.25 1.35 3.25 3.75v4.9h-2.7v-4.5c0-1.15-.45-1.8-1.45-1.8-1 0-1.6.68-1.6 1.85v4.45h-2.75z"/></g>
+<text x="42" y="25.4" font-size="15" fill="#0C1D3A" font-weight="600">LinkedIn</text>
+</svg>

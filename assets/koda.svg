@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="KODA — Marketing com agentes de IA">
+<title>KODA — Marketing com agentes de IA</title>
+<style>text{font-family:Inter,"Segoe UI",system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif}</style>
+<defs>
+<clipPath id="r"><rect width="1200" height="400" rx="24"/></clipPath>
+<radialGradient id="g1" cx=".1" cy="0" r=".85"><stop offset="0" stop-color="#2C3B0F"/><stop offset="1" stop-color="#0A0D07" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx=".77" cy=".52" r=".42"><stop offset="0" stop-color="#C4F233" stop-opacity=".10"/><stop offset="1" stop-color="#C4F233" stop-opacity="0"/></radialGradient>
+<filter id="gl" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="gl2" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="12"/></filter>
+<path id="a0" d="m111 0h308v410l197 229 421-639h355l-573 846 558 644h-369l-368-430c-74-89-148-177-221-265v695h-308z"/>
+<path id="a1" d="m765-24c401 0 703 294 703 768 0 475-302 770-703 770-401 0-702-295-702-770 0-472 301-768 702-768zm0 272c-230 0-392 180-392 496 0 318 162 498 392 498 230 0 393-180 393-498 0-316-163-496-393-496z"/>
+<path id="a2" d="m637 0c457 0 736 287 736 746 0 457-282 744-730 744h-532v-1490zm-218 259v972h205c296 0 439-172 439-485 0-314-141-487-442-487z"/>
+<path id="a3" d="m9 0h332l108 325h557l104-325h341l-523 1490h-396zm523 571l51 154c48 152 94 304 148 489 53-185 99-337 145-489l50-154z"/>
+<path id="a4" d="m111 0h302v708c0 99-5 266-9 424 51-167 101-332 132-424l255-708h250l252 708c32 95 84 271 135 445-4-164-10-341-10-445v-708h301v1490h-449l-243-694c-27-88-74-245-110-373-36 128-83 285-111 373l-246 694h-449z"/>
+<path id="a5" d="m427-18c162 0 253 64 309 167h4v-149h288v716c0 226-166 362-455 362-290 0-462-138-475-356h277c7 81 79 137 189 137 108 0 173-54 173-132v-7c0-68-68-77-261-96-220-20-412-88-412-326 0-211 152-316 363-316zm82 205c-99 0-163 44-163 119 0 84 80 123 181 138 95 15 178 29 212 48v-106c0-114-88-199-230-199z"/>
+<path id="a6" d="m104 0h295v572c0 159 89 243 210 243 50 0 105-4 127-5v251c-24 1-53 2-87 2-139 0-219-60-258-187h-3v180h-284z"/>
+<path id="a7" d="m104 0h295v335l85 94 311-429h345l-435 598 413 458h-346l-370-404h-3v838h-295z"/>
+<path id="a8" d="m586-24c256 0 460 146 499 356h-269c-27-82-106-135-221-135-155 0-245 101-250 257h751v79c0 322-209 547-520 547-303 0-518-231-518-553 0-321 208-551 528-551zm-239 666c16 132 103 214 235 214 133 0 221-82 236-214z"/>
+<path id="a9" d="m711 1056h-216v288h-295v-288h-182v-231h182v-545c0-192 107-280 339-280h172v231h-113c-80 0-103 23-103 95v499h216z"/>
+<path id="a10" d="m104 0h295v1056h-295zm147 1189c97 0 168 67 168 157 0 90-71 157-168 157-97 0-168-67-168-157 0-90 71-157 168-157z"/>
+<path id="a11" d="m399 587c0 164 85 237 207 237 123 0 194-75 194-217v-607h294v661c0 267-145 417-370 417-152 0-259-68-330-188v166h-290v-1056h295z"/>
+<path id="a12" d="m603-432c306 0 516 138 516 473v1015h-291v-153h-1c-67 117-177 175-314 175-270 0-455-225-455-542 0-315 181-537 457-537 138 0 249 56 312 180h1v-162c0-152-81-232-225-232-110 0-188 45-209 125h-284c30-205 193-342 493-342zm-12 667c-143 0-236 111-236 305 0 194 93 304 236 304 149 0 248-120 248-304 0-185-99-305-248-305z"/>
+<path id="a13" d="m588-24c281 0 483 177 496 421h-287c-19-111-86-183-205-183-148 0-237 121-237 313 0 193 88 315 237 315 118 0 192-73 207-181h285c-19 246-218 419-496 419-317 0-530-226-530-553 0-327 212-551 530-551z"/>
+<path id="a14" d="m594-24c321 0 537 220 537 551 0 331-216 553-537 553-320 0-536-222-536-553 0-331 216-551 536-551zm0 239c-143 0-239 116-239 312 0 197 97 314 239 314 143 0 240-117 240-314 0-196-96-312-240-312z"/>
+<path id="a15" d="m104 0h295v623c0 136 84 212 189 212 103 0 175-71 175-181v-654h284v636c0 118 71 199 185 199 101 0 179-62 179-189v-646h294v700c0 242-151 378-354 378-153 0-283-77-338-206-44 129-163 206-305 206-134 0-257-69-320-212v190h-284z"/>
+<path id="a16" d="m543-26c276 0 468 138 468 349 0 155-98 247-311 289l-200 39c-81 17-128 52-128 106 0 63 61 112 162 112 104 0 176-63 178-148h273c-6 220-186 357-459 357-275 0-448-132-448-332 0-164 109-268 314-308l185-36c86-17 137-50 137-106 0-65-67-111-176-111-115 0-183 55-194 147h-290c18-227 215-358 489-358z"/>
+<path id="a17" d="m515-22c139 0 252 61 313 184h1v-162h290v1490h-294v-580h-1c-68 114-174 168-311 168-270 0-455-225-455-549 0-331 181-551 457-551zm76 240c-143 0-236 113-236 311 0 198 93 311 236 311 149 0 248-123 248-311 0-189-99-311-248-311z"/>
+<path id="a18" d="m419 1490h-308v-1490h308z"/>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="400" fill="#0A0D07"/>
+<rect width="1200" height="400" fill="url(#g1)"/>
+<rect width="1200" height="400" fill="url(#g2)"/>
+<rect x="56" y="48" width="56" height="56" rx="14" fill="#10150A" stroke="#C4F233" stroke-opacity=".35" stroke-width="1.5"/>
+<path d="M84 77 71 66M84 77l14-9M84 77l-3 15" stroke="#C4F233" stroke-width="2.4" stroke-linecap="round"/><g fill="#C4F233"><circle cx="84" cy="77" r="5"/><circle cx="71" cy="66" r="3.6"/><circle cx="98" cy="68" r="3.6"/><circle cx="81" cy="92" r="3.6"/></g>
+<g fill="#F4F7F0" transform="translate(130.0 76.0) scale(0.01465 -0.01465)"><use href="#a0" x="0"/><use href="#a1" x="1317"/><use href="#a2" x="2869"/><use href="#a3" x="4243"/></g>
+<text x="130" y="101" font-size="17" fill="#99A48E" font-weight="500">Projeto pessoal · ago 2026 – atual</text>
+<g fill="#F4F7F0" transform="translate(54.0 214.0) scale(0.02832 -0.02832)"><use href="#a4" x="0"/><use href="#a5" x="1800"/><use href="#a6" x="2902"/><use href="#a7" x="3637"/><use href="#a8" x="4687"/><use href="#a9" x="5806"/><use href="#a10" x="6531"/><use href="#a11" x="7003"/><use href="#a12" x="8171"/><use href="#a13" x="9773"/><use href="#a14" x="10879"/><use href="#a15" x="12037"/></g>
+<g fill="#C4F233" transform="translate(54.0 278.0) scale(0.02832 -0.02832)"><use href="#a5" x="0"/><use href="#a12" x="1101"/><use href="#a8" x="2295"/><use href="#a11" x="3414"/><use href="#a9" x="4582"/><use href="#a8" x="5291"/><use href="#a16" x="6411"/><use href="#a17" x="7853"/><use href="#a8" x="9047"/><use href="#a18" x="10574"/><use href="#a3" x="11073"/></g>
+<rect x="56" y="316" width="70.8" height="34" rx="17" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".14"/>
+<text x="91.4" y="338.6" font-size="16" fill="#E3EBDC" font-weight="500" text-anchor="middle">SaaS</text>
+<rect x="136.8" y="316" width="185.8" height="34" rx="17" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".14"/>
+<text x="229.8" y="338.6" font-size="16" fill="#E3EBDC" font-weight="500" text-anchor="middle">Inteligência artificial</text>
+<g fill="none" stroke="#C4F233" stroke-dasharray="3 7"><ellipse cx="918" cy="214" rx="120" ry="88" stroke-opacity=".14"/><ellipse cx="918" cy="214" rx="226" ry="150" stroke-opacity=".1"/></g>
+<g fill="none" stroke="#C4F233" stroke-linecap="round"><path d="M918 214L949.1 129M918 214L1033.9 191.2M918 214L1002.9 276.2M918 214L886.9 299M918 214L802.1 236.8M918 214L833.1 151.8" stroke-opacity=".45" stroke-width="1.6"/><path d="M949.1 129L1033.9 191.2M1033.9 191.2L1002.9 276.2M1002.9 276.2L886.9 299M886.9 299L802.1 236.8M802.1 236.8L833.1 151.8M833.1 151.8L949.1 129" stroke-opacity=".16" stroke-width="1.2"/><path d="M949.1 129L957.2 66.3M1033.9 191.2L1071.3 103.8M1033.9 191.2L1136.8 176.3M1033.9 191.2L1132.7 260.8M1002.9 276.2L1060.5 330.4M886.9 299L943 363.1M886.9 299L817.6 348.4M802.1 236.8L724.1 291.1M802.1 236.8L692.1 209.2M833.1 151.8L731.8 128.9M833.1 151.8L830.7 75.6" stroke-opacity=".3" stroke-width="1.3"/><path d="M1033.9 191.2L957.2 66.3M949.1 129L1071.3 103.8M1002.9 276.2L1136.8 176.3M1002.9 276.2L1132.7 260.8M1033.9 191.2L1060.5 330.4M1002.9 276.2L943 363.1M802.1 236.8L817.6 348.4M886.9 299L724.1 291.1M833.1 151.8L692.1 209.2M802.1 236.8L731.8 128.9M949.1 129L830.7 75.6" stroke-opacity=".1" stroke-width="1"/></g>
+<circle cx="957.2" cy="66.3" r="11" fill="#C4F233" opacity=".18"/><circle cx="957.2" cy="66.3" r="6" fill="#C4F233"/>
+<circle cx="1071.3" cy="103.8" r="11" fill="#F5A524" opacity=".18"/><circle cx="1071.3" cy="103.8" r="6" fill="#F5A524"/>
+<circle cx="1136.8" cy="176.3" r="11" fill="#38BDF8" opacity=".18"/><circle cx="1136.8" cy="176.3" r="6" fill="#38BDF8"/>
+<circle cx="1132.7" cy="260.8" r="11" fill="#F472B6" opacity=".18"/><circle cx="1132.7" cy="260.8" r="6" fill="#F472B6"/>
+<circle cx="1060.5" cy="330.4" r="11" fill="#A78BFA" opacity=".18"/><circle cx="1060.5" cy="330.4" r="6" fill="#A78BFA"/>
+<circle cx="943" cy="363.1" r="11" fill="#C4F233" opacity=".18"/><circle cx="943" cy="363.1" r="6" fill="#C4F233"/>
+<circle cx="817.6" cy="348.4" r="11" fill="#34D399" opacity=".18"/><circle cx="817.6" cy="348.4" r="6" fill="#34D399"/>
+<circle cx="724.1" cy="291.1" r="11" fill="#F5A524" opacity=".18"/><circle cx="724.1" cy="291.1" r="6" fill="#F5A524"/>
+<circle cx="692.1" cy="209.2" r="11" fill="#C4F233" opacity=".18"/><circle cx="692.1" cy="209.2" r="6" fill="#C4F233"/>
+<circle cx="731.8" cy="128.9" r="11" fill="#38BDF8" opacity=".18"/><circle cx="731.8" cy="128.9" r="6" fill="#38BDF8"/>
+<circle cx="830.7" cy="75.6" r="11" fill="#F472B6" opacity=".18"/><circle cx="830.7" cy="75.6" r="6" fill="#F472B6"/>
+<g fill="#C4F233" filter="url(#gl)"><circle cx="949.1" cy="129" r="9"/><circle cx="1033.9" cy="191.2" r="9"/><circle cx="1002.9" cy="276.2" r="9"/><circle cx="886.9" cy="299" r="9"/><circle cx="802.1" cy="236.8" r="9"/><circle cx="833.1" cy="151.8" r="9"/></g>
+<circle cx="918" cy="214" r="46" fill="#C4F233" opacity=".35" filter="url(#gl2)"/><circle cx="918" cy="214" r="45" fill="none" stroke="#C4F233" stroke-opacity=".35" stroke-width="1.5"/><circle cx="918" cy="214" r="32" fill="#C4F233"/>
+<g fill="#0E1208" transform="translate(906.3 222.6) scale(0.01172 -0.01172)"><use href="#a18" x="0"/><use href="#a3" x="530"/></g>
+<text x="963.1" y="121" font-size="16" fill="#E6EEDD" font-weight="500" stroke="#0A0D07" stroke-width="7" stroke-linejoin="round" paint-order="stroke">Artes</text>
+<text x="786.1" y="241.8" font-size="16" fill="#E6EEDD" font-weight="500" text-anchor="end" stroke="#0A0D07" stroke-width="7" stroke-linejoin="round" paint-order="stroke">Redes sociais</text>
+<text x="819.1" y="143.8" font-size="16" fill="#E6EEDD" font-weight="500" text-anchor="end" stroke="#0A0D07" stroke-width="7" stroke-linejoin="round" paint-order="stroke">Copy</text>
+<text x="1017.9" y="292.2" font-size="16" fill="#E6EEDD" font-weight="500" stroke="#0A0D07" stroke-width="7" stroke-linejoin="round" paint-order="stroke">Calendário</text>
+<text x="1132.7" y="243.8" font-size="15" fill="#BCC6B1" font-weight="500" text-anchor="middle" stroke="#0A0D07" stroke-width="7" stroke-linejoin="round" paint-order="stroke">Canva</text>
+<text x="817.6" y="374.4" font-size="15" fill="#BCC6B1" font-weight="500" text-anchor="middle" stroke="#0A0D07" stroke-width="7" stroke-linejoin="round" paint-order="stroke">Pinterest</text>
+<text x="731.8" y="112.9" font-size="15" fill="#BCC6B1" font-weight="500" text-anchor="middle" stroke="#0A0D07" stroke-width="7" stroke-linejoin="round" paint-order="stroke">ChatGPT</text>
+<rect x="1011" y="30" width="133" height="40" rx="12" fill="#C4F233"/>
+<text x="1077.5" y="57" font-size="19" fill="#10140A" font-weight="700" text-anchor="middle">17 agentes</text>
+<rect x="1" y="1" width="1198" height="398" rx="23" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="2"/>
+</g>
+</svg>

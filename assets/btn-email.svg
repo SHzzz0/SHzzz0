@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="40" viewBox="0 0 114 40" role="img" aria-label="E-mail">
+<title>E-mail</title>
+<style>text{font-family:Inter,"Segoe UI",system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif}</style>
+<defs>
+
+</defs>
+<rect x=".5" y=".5" width="113" height="39" rx="19.5" fill="#F2EEED" stroke="#D6D0CE"/>
+<circle cx="21" cy="20" r="13" fill="#0C1D3A"/>
+<rect x="13.6" y="14.8" width="14.8" height="10.6" rx="1.8" fill="#fff"/><path d="M14.6 16l6.4 4.9 6.4-4.9" fill="none" stroke="#0C1D3A" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="42" y="25.4" font-size="15" fill="#0C1D3A" font-weight="600">E-mail</text>
+</svg>
