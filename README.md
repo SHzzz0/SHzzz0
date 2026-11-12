@@ -26,15 +26,15 @@ Curso **Administração** na **UniCesumar**.
 
 ## Sistemas que desenvolvi
 
-<img src="./assets/koda.svg" width="100%" alt="KODA — Marketing com agentes de IA. Projeto pessoal, desde agosto de 2026.">
+### KODA
 
-Copy, artes, calendário editorial e redes sociais com **ChatGPT**, **Canva** e **Pinterest**. Um time de **17 agentes de IA** trabalha junto, e você aprova tudo antes de publicar.
+<img src="./assets/KODA-capa.png" width="100%" alt="KODA — Marketing com agentes de IA. Copy, artes, calendário editorial e redes sociais com ChatGPT, Canva e Pinterest: um time de 17 agentes em 7 departamentos trabalha junto e você aprova antes de publicar.">
 
 <br>
 
-<img src="./assets/financ.svg" width="100%" alt="FINANC — Finanças pessoais com IA. Projeto pessoal, desde junho de 2026.">
+### FINANC
 
-Visão do mês, gastos por categoria e alertas em um só painel. Idealizei, especifiquei e conduzi o projeto.
+<img src="./assets/01-capa.jpg" width="100%" alt="FINANC — Finanças pessoais com agente de IA. Contas, cartões, investimentos, dívidas, objetivos e relatórios, com comandos por voz, cotação do dólar do dia e app no celular.">
 
 <br>
 
